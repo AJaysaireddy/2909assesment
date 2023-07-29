@@ -1,0 +1,40 @@
+.par1{
+    height: 80px;
+    background-color: blanchedalmond;
+    text-align: center;
+    text-decoration: underline;
+    border: 5px solid skyblue;
+}
+.par2{
+    background-color: lightblue;
+    height: 800px;
+    margin: 5px;
+    display: flex;
+    border: 5px solid skyblue;
+
+}
+.c11{
+    height: 800px;
+    width: 33.3%;
+    background-color: lightgoldenrodyellow;
+    display: flex;
+}
+.c12{
+    height: 800px;
+    width: 33.3%;
+    background-color: lightgreen;
+    
+}
+.c13{
+    height: 800px;
+    width: 33.3%;
+    background-color: lightgoldenrodyellow;
+    
+
+}
+.par3{
+    height: 60px;
+    background-color: grey;
+    text-align: center;
+    border: 5px solid skyblue;
+}
